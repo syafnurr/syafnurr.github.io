@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/syafnurr.github.io/static/css/main.e79b34df.css",
+    "main.js": "/syafnurr.github.io/static/js/main.4a328fa5.js",
+    "static/js/787.fca47ae2.chunk.js": "/syafnurr.github.io/static/js/787.fca47ae2.chunk.js",
+    "static/media/hero.png": "/syafnurr.github.io/static/media/hero.917a084236c6cbcdd886.png",
+    "static/media/about.png": "/syafnurr.github.io/static/media/about.225795ffec6659dece50.png",
+    "static/media/admin-travel.jpg": "/syafnurr.github.io/static/media/admin-travel.bbbf1674bcc2d517d1c1.jpg",
+    "static/media/coffe-shop.png": "/syafnurr.github.io/static/media/coffe-shop.5b15da941cf01c273469.png",
+    "static/media/finder-job.png": "/syafnurr.github.io/static/media/finder-job.9d49c79baf6d3c31818d.png",
+    "static/media/node-react.jpg": "/syafnurr.github.io/static/media/node-react.c66210350d05f3abcad1.jpg",
+    "static/media/education.png": "/syafnurr.github.io/static/media/education.cc77dd22d1e66cbcaec8.png",
+    "static/media/experience.png": "/syafnurr.github.io/static/media/experience.a28f05af9c6df4ab01a5.png",
+    "index.html": "/syafnurr.github.io/index.html",
+    "main.e79b34df.css.map": "/syafnurr.github.io/static/css/main.e79b34df.css.map",
+    "main.4a328fa5.js.map": "/syafnurr.github.io/static/js/main.4a328fa5.js.map",
+    "787.fca47ae2.chunk.js.map": "/syafnurr.github.io/static/js/787.fca47ae2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e79b34df.css",
+    "static/js/main.4a328fa5.js"
+  ]
+}
